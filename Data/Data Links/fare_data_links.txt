@@ -1,0 +1,7 @@
+http://web.mta.info/developers/data/nyct/fares/fares_180505.csv
+http://web.mta.info/developers/data/nyct/fares/fares_180512.csv
+http://web.mta.info/developers/data/nyct/fares/fares_180519.csv
+http://web.mta.info/developers/data/nyct/fares/fares_180526.csv
+http://web.mta.info/developers/data/nyct/fares/fares_180602.csv
+http://web.mta.info/developers/data/nyct/fares/fares_180609.csv
+http://web.mta.info/developers/data/nyct/fares/fares_180616.csv

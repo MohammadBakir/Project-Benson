@@ -1,0 +1,7 @@
+Data
+Which months of the year should we consider when looking at our Data?
+
+Looking at Data from 2018, January to Beggining of June
+Turnstile Data
+Fare Data
+
